@@ -1,8 +1,8 @@
-\#Diabetes Prediction using Machine Learning
+\# Diabetes Prediction using Machine Learning
 
 
 
-\##Project Overview
+\## Project Overview
 
 
 
@@ -14,7 +14,7 @@ The model was trained using the Pima Indians Diabetes Dataset and implemented us
 
 
 
-\##Features
+\## Features
 
 
 
@@ -28,7 +28,7 @@ The model was trained using the Pima Indians Diabetes Dataset and implemented us
 
 
 
-\##Dataset
+\## Dataset
 
 
 
@@ -68,7 +68,7 @@ The dataset contains 768 patient records and is widely used for machine learning
 
 
 
-\##Technologies Used
+\## Technologies Used
 
 
 
@@ -88,7 +88,7 @@ The dataset contains 768 patient records and is widely used for machine learning
 
 
 
-\##Machine Learning Model
+\## Machine Learning Model
 
 
 
@@ -100,7 +100,7 @@ Model Used:
 
 
 
-\##Results
+\## Results
 
 
 
@@ -108,7 +108,7 @@ Model Used:
 
 
 
-\##How to Run
+\## How to Run
 
 
 
@@ -124,9 +124,7 @@ Model Used:
 
 
 
-\##Author
-
-
+\## Author
 
 Pakanati Shruthi
 
